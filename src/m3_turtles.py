@@ -124,7 +124,7 @@ natasha.backward(92)
 ###############################################################################
 
 philmore = rg.SimpleTurtle()
-philmore.pen = rg.Pen('turquoise',42)
+philmore.pen = rg.Pen('turquoise', 42)
 philmore.speed = 5
 philmore.forward(15)
 philmore.right(72)
